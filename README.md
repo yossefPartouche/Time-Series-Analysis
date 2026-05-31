@@ -2,7 +2,7 @@
 
 Welcome to my interactive notebook and project repository for learning **Time Series Analysis**. 
 
-This repository serves as a comprehensive, practical, and highly visual companion to the classic textbook *[Time Series Analysis and Its Applications](https://link.springer.com/book/10.1007/978-1-4419-7865-3) by Robert H. Shumway and David S. Stoffer*. 
+This repository serves as a comprehensive, practical, and highly visual companion to the classic textbook *[Time Series Analysis and Its Applications](https://link.springer.com/book/10.1007/978-3-031-70584-7) by Robert H. Shumway and David S. Stoffer*. 
 
 While the original text relies heavily on R and theoretical derivations, this repository bridges the gap by translating these core statistical concepts into **Python**, emphasizing intuitive visuals and real-world applications.
 
